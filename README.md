@@ -1,6 +1,6 @@
-# Next Markdown Blog
+# Next Personal Website
 
-Simple static blog using markdown and Next.js
+Simple personal next js website
 
 [DEMO](https://next-markdown-blog-drab.vercel.app/)
 
